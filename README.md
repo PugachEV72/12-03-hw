@@ -16,7 +16,7 @@
 
 ## `Решение:`
 
-![Cкриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-03-19_12-31-12.png)
+![Cкриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-03-19_20-05-00.png)
 
 
 ---
@@ -34,7 +34,7 @@
 
 ## `Решение:`
 
-![Cкриншот 4](https://github.com/PugachEV72/Images/blob/master/2023-03-19_12-39-41.png)
+![Cкриншот 4](https://github.com/PugachEV72/Images/blob/master/2023-03-19_20-12-12.png)
 
 ---
 ## Дополнительные задания (со звездочкой*)
