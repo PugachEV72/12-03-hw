@@ -16,7 +16,7 @@
 
 ## `Решение:`
 
-![Cкриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-03-19_20-05-00.png)
+![Cкриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-03-20_23-52-17.png)
 
 
 ---
